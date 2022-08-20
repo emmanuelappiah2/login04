@@ -1,6 +1,0 @@
-html
-span
-div
-hr
-ul
-ol sA
